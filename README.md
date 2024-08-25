@@ -21,5 +21,5 @@ You can find data set [here](https://www.kaggle.com/competitions/home-credit-cre
 # Project Reports
 
 - [Project Paper](https://github.com/RasaraThathsarana/Home-Credit---Credit-Risk-Model-Stability/blob/b2fef0bf61efa23cd9659b9006d141150cb921c6/Group%201_Short_Paper.pdf)
-- [Jupeter Notebook](Notebooki.pynb)
+- [Jupeter Notebook](Notebookipynb.ipynb)
 - [Individual Contribution](210170G_Individual_contribution.pdf)
